@@ -1,0 +1,13 @@
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\bin\Debug\netcoreapp3.1\LR_Five.exe
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\bin\Debug\netcoreapp3.1\LR_Five.deps.json
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\bin\Debug\netcoreapp3.1\LR_Five.runtimeconfig.json
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\bin\Debug\netcoreapp3.1\LR_Five.runtimeconfig.dev.json
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\bin\Debug\netcoreapp3.1\LR_Five.dll
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\bin\Debug\netcoreapp3.1\LR_Five.pdb
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\obj\Debug\netcoreapp3.1\LR_Five.csprojAssemblyReference.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\obj\Debug\netcoreapp3.1\LR_Five.AssemblyInfoInputs.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\obj\Debug\netcoreapp3.1\LR_Five.AssemblyInfo.cs
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\obj\Debug\netcoreapp3.1\LR_Five.csproj.CoreCompileInputs.cache
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\obj\Debug\netcoreapp3.1\LR_Five.dll
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\obj\Debug\netcoreapp3.1\LR_Five.pdb
+C:\Users\lesha\OneDrive\Desktop\LR_Five\LR_Five\obj\Debug\netcoreapp3.1\LR_Five.genruntimeconfig.cache
